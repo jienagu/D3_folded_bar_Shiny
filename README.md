@@ -1,5 +1,5 @@
 # D3_folded_bar_Shiny
-This is the first shiny app using D3.js library. 
+This is the first shiny app using D3.js library. Live demo: https://appforiarteam.shinyapps.io/D3_folded_bar/ 
 
 * Simply click the bar in the chart or the dropdown tab to guide you to a monthly chart of clicked airflight. Then click "ALL" in the tab to reset. 
 
@@ -7,4 +7,7 @@ This is the first shiny app using D3.js library.
 
 ![D3_shiny](D3_fold_bar.gif)
 
-Acknow
+## Acknowledgement
+
+Beef Cattle Institute at Kansas State University: https://ksubci.org/
+Special thanks to Yihui Xie (from RStudio.LLC)!
